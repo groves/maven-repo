@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.gamua</groupId>
+  <artifactId>starling-framework</artifactId>
+  <version>1.5-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20131201182346</lastUpdated>
+  </versioning>
+</metadata>
