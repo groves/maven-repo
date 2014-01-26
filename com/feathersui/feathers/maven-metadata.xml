@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.feathersui</groupId>
+  <artifactId>feathers</artifactId>
+  <version>1.2</version>
+  <versioning>
+    <versions>
+      <version>1.2</version>
+    </versions>
+    <lastUpdated>20140126022633</lastUpdated>
+  </versioning>
+</metadata>
