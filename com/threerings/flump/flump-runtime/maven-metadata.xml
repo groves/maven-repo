@@ -22,7 +22,8 @@
       <version>1.5.1</version>
       <version>1.5.2</version>
       <version>1.5.3</version>
+      <version>1.5.4-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170823172359</lastUpdated>
+    <lastUpdated>20171121020023</lastUpdated>
   </versioning>
 </metadata>
