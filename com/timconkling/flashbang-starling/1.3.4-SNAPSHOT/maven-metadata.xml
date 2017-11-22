@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.timconkling</groupId>
+  <artifactId>flashbang-starling</artifactId>
+  <version>1.3.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20171122021757</lastUpdated>
+  </versioning>
+</metadata>
